@@ -2,7 +2,7 @@
 ## Mantissa
 Dado um número pelo usuário real ou inteiro, podendo ser positivo ou negativo, é calculado a caracterísitca e a mantissa.
 
-**Exemplo: **
+**Exemplo**:
 
 **número**: 318278312.43
 
