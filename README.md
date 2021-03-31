@@ -17,7 +17,7 @@ Acesse o [código de conduta](https://github.com/UTFPR-SL/grupo-3/blob/main/CODE
 Para contribuir acesse o [link](https://github.com/UTFPR-SL/grupo-3/blob/main/CONTRIBUTING.md).
 
 ## Pré-requisitos
-Para executar e compilar acesse os [pré-requisitos](https://github.com/UTFPR-SL/grupo-3/blob/main/CONTRIBUTING.md).
+Para executar e compilar acesse os [pré-requisitos](https://github.com/UTFPR-SL/grupo-3/blob/main/PREREQUISITE.md).
 
 ## Compilar
 Para compilar acesse [Como compilar](https://github.com/UTFPR-SL/grupo-3/blob/main/HOWTOCOMPILE.md).
