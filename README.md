@@ -14,7 +14,7 @@ Dado um número pelo usuário real ou inteiro, podendo ser positivo ou negativo,
 Acesse o [código de conduta](https://github.com/UTFPR-SL/grupo-3/blob/main/CODEOFCONDUCT.md).
 
 ## Contribuir
-Para contribuir acesse o [link]().
+Para contribuir acesse o [link](https://github.com/UTFPR-SL/grupo-3/blob/main/CONTRIBUTING.md).
 
 ## Pré-requisitos
 Para executar e compilar acesse os [pré-requisitos](https://github.com/UTFPR-SL/grupo-3/blob/main/CONTRIBUTING.md).
