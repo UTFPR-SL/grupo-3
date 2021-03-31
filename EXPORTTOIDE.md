@@ -21,7 +21,13 @@
 
 ![](https://github.com/UTFPR-SL/grupo-3/blob/main/images/7.png)
 
-6. Para que o programe compile é obrigatório adicionar um link. (Settings -> Compiler... -> Linker settings -> Other link options -> Escreva: -lm)
+6. Para que o programe compile e execute é obrigatório adicionar um link. (Settings -> Compiler... -> Linker settings -> Other link options -> Escreva: -lm)
+
+![](https://github.com/UTFPR-SL/grupo-3/blob/main/images/13.png)
+
+![](https://github.com/UTFPR-SL/grupo-3/blob/main/images/14.png)
+
+![](https://github.com/UTFPR-SL/grupo-3/blob/main/images/15.png)
 
 6. Selecione os arquivos (os .c e os .h), com **exceção** do main.c.
 
