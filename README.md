@@ -23,4 +23,4 @@ Para executar e compilar acesse os [pré-requisitos]().
 Para compilar acesse [Como compilar]().
 
 ## Executar
-Para executar [Como executar]().
+Para executar acesse [Como executar]().
