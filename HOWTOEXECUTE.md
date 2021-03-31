@@ -1,39 +1,34 @@
-# PRÉ-REQUISITOS
-## Windows
-### Programas
-* CodeBlocks com GCC 20.03
+# COMO EXECUTAR
+Antes de executar é necessário [compilar](https://github.com/UTFPR-SL/grupo-3/blob/main/HOWTOCOMPILE.md) e [exportar](https://github.com/UTFPR-SL/grupo-3/blob/main/EXPORTTOIDE.md), e o processo é o mesmo do Windows tanto para o Linux (Usando a IDE [CodeBlocks](https://www.codeblocks.org/)), tanto para compilar e quanto pra executar.
+Esse processo é válido tanto para o arquivo de teste, quanto para o arquivo main.c que calcula a mantissa.
 
-### Instalação
-* [CodeBlocks com GCC 20.03](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe)
 
-## Linux
-### Programas
-* Make 4.2.1
-* GCC 9.3.0
-* Editor de texto da sua preferência
-	- VSCode
-	- Sublime Text
-* CodeBlocks 20.03 (caso deseje compilar e executar por meio de uma IDE)
+## Windows e Linux
+1. Após exportar e compilar o novo projeto, clique no ícone de *play* (também chamado de *Run*).
+![](https://github.com/UTFPR-SL/grupo-3/blob/main/images/21.png)
 
-### Instalação
-Acesse o terminal ou o link, caso tenha disponível. 
+2. Veja o resultado na parte **Build log**.
+![](https://github.com/UTFPR-SL/grupo-3/blob/main/images/22.png)
 
-* Make 4.2.1 e GCC 9.3.0
+3. Se nada ocorrer de errado será irá aparecer um terminal com a resposta.
+![](https://github.com/UTFPR-SL/grupo-3/blob/main/images/19.PNG)
+
+## Linux (executar usando terminal)
+
+1. Abra o terminal
+
+2. Acesse o diretório onde foi clonado
 ```
-$ sudo apt-get install build-essential
-```
-
-* VSCode ou pelo [link](https://code.visualstudio.com/docs/?dv=linux64_deb).
-```
-$ flatpak install flathub com.visualstudio.code
+$ git clone https://github.com/UTFPR-SL/grupo-3.git
+$ cd grupo-3
 ```
 
-* Sublime Text ou pelo [link](https://www.sublimetext.com/docs/3/linux_repositories.html#apt).
+3. Digite o comando abaixo para compilar:
 ```
-$ flatpak install flathub com.sublimetext.three
+$ make compile
 ```
 
-* CodeBlocks 20.03 ou pelo [link](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Linux/Debian%2010/codeblocks_20.03_amd64_stable.tar.xz).
+4. Por fim, digite o nome do programa e o valor que deseja calcular mantissa:
 ```
-$ flatpak install flathub org.codeblocks.codeblocks
+$ ./main 9310831289312.432432
 ```

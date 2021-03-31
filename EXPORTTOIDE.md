@@ -21,16 +21,16 @@
 
 ![](https://github.com/UTFPR-SL/grupo-3/blob/main/images/7.png)
 
-6. Para que o programe compile e execute é obrigatório adicionar um link. (Settings -> Compiler... -> Linker settings -> Other link options -> Escreva: -lm)
+6. Selecione os arquivos (os .c e os .h), com **exceção** do main.c.
+
+![](https://github.com/UTFPR-SL/grupo-3/blob/main/images/7.PNG)
+
+7. Para exportar o arquivo que se calcula a mantissa (**main.c**) repita as etapas 1-5, só que na etapa 6 adicione o arquivo main.c ao invés do test.c.
+
+8. Para que o programe compile e execute é obrigatório adicionar um link. (Settings -> Compiler... -> Linker settings -> Other link options -> Escreva: -lm)
 
 ![](https://github.com/UTFPR-SL/grupo-3/blob/main/images/13.PNG)
 
 ![](https://github.com/UTFPR-SL/grupo-3/blob/main/images/14.png)
 
 ![](https://github.com/UTFPR-SL/grupo-3/blob/main/images/15.PNG)
-
-6. Selecione os arquivos (os .c e os .h), com **exceção** do main.c.
-
-![](https://github.com/UTFPR-SL/grupo-3/blob/main/images/7.PNG)
-
-7. Para exportar o arquivo que se calcula a mantissa (**main.c**) repita as etapas 1-5, só que na etapa 6 adicione o arquivo main.c ao invés do test.c.
