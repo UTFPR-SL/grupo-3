@@ -24,33 +24,19 @@ Veja [detalhes sobre nossa política de Código de Conduta](./CODEOFCONDUCT.md).
 
 * [Dependências](#dependencies)
 * [Configurando seu ambiente local](#setting-up-your-local-environment)
-* [O processo de fazer mudanças] (#the-process-of-making-changes)
-* [Reviewing Pull Requests](#reviewing-pull-requests)
+* [O processo de fazer mudanças](#the-process-of-making-changes)
+* [Revisando Pull Requests](#reviewing-pull-requests)
 * [Notas](#notes)
 
 <a id="developers-certificate-of-origin"></a>
 ## Certificado de Origem 1.0 do Desenvolvedor
 
-By making a contribution to this project, I certify that:
+Ao fazer uma contribuição para este projeto, certifico que:
 
- (a) The contribution was created in whole or in part by me and I
-     have the right to submit it under the open source license
-     indicated in the file; or
+ (a) A contribuição foi criada no todo ou em parte por mim e tenho o direito de enviá-la sob a licença de código aberto indicada no arquivo; ou
 
- (b) The contribution is based upon previous work that, to the best
-     of my knowledge, is covered under an appropriate open source
-     license and I have the right under that license to submit that
-     work with modifications, whether created in whole or in part
-     by me, under the same open source license (unless I am
-     permitted to submit under a different license), as indicated
-     in the file; or
+ (b) A contribuição é baseada em trabalho anterior que, tanto quanto é do meu conhecimento, está coberto por uma licença de código aberto apropriada e eu tenho o direito sob essa licença de enviar esse trabalho com modificações, sejam criadas no todo ou em parte por eu, sob a mesma licença de código aberto (a menos que eu tenha permissão para enviar sob uma licença diferente), conforme indicado no arquivo; ou
 
- (c) The contribution was provided directly to me by some other
-     person who certified (a), (b) or (c) and I have not modified
-     it.
+ (c) A contribuição foi fornecida diretamente a mim por outra pessoa que certificou (a), (b) ou (c) e eu não a modifiquei.
 
- (d) I understand and agree that this project and the contribution
-     are public and that a record of the contribution (including all
-     personal information I submit with it, including my sign-off) is
-     maintained indefinitely and may be redistributed consistent with
-     this project or the open source license(s) involved.
+ (d) Eu entendo e concordo que este projeto e a contribuição são públicos e que um registro da contribuição (incluindo todas as informações pessoais que eu envio com ele, incluindo minha assinatura) é mantido indefinidamente e pode ser redistribuído de acordo com este projeto ou as licenças de código aberto envolvidas. 
