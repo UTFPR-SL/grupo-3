@@ -1,35 +1,35 @@
-# Contributing
+# Contribuindo
 
-- [Contributing](#contributing)
-  - [Code of Conduct](#code-of-conduct)
+- [Contribuindo](#contributing)
+  - [Código de Conduta](#code-of-conduct)
   - [Issues](#issues)
   - [Pull Requests](#pull-requests)
   - [Developer's Certificate of Origin 1.0](#developers-certificate-of-origin-10)
 
-## [Code of Conduct](./CODEOFCONDUCT.md)
+## [Código de Conduta](./CODEOFCONDUCT.md)
 
-The Grupo-3 project has a
-[Code of Conduct](./CODEOFCONDUCT.md)
-to which all contributors must adhere.
+O projeto do Grupo-3 tem um
+[Código de Conduta](./CODEOFCONDUCT.md)
+ao qual todos os colaboradores devem aderir.
 
-See [details on our policy on Code of Conduct](./CODEOFCONDUCT.md).
+Veja [detalhes sobre nossa política de Código de Conduta](./CODEOFCONDUCT.md).
 
 ## [Issues](./ISSUES.md)
 
-* [Asking for General Help](#asking-for-general-help)
-* [Submitting a Bug Report](#submitting-a-bug-report)
+* [Solicitando ajuda geral](#asking-for-general-help)
+* [Enviando um relatório de bug](#submitting-a-bug-report)
 * [Triaging a Bug Report](#triaging-a-bug-report)
 
 ## [Pull Requests](#pull-requests.md)
 
-* [Dependencies](#dependencies)
-* [Setting up your local environment](#setting-up-your-local-environment)
-* [The Process of Making Changes](#the-process-of-making-changes)
+* [Dependências](#dependencies)
+* [Configurando seu ambiente local](#setting-up-your-local-environment)
+* [O processo de fazer mudanças] (#the-process-of-making-changes)
 * [Reviewing Pull Requests](#reviewing-pull-requests)
-* [Notes](#notes)
+* [Notas](#notes)
 
 <a id="developers-certificate-of-origin"></a>
-## Developer's Certificate of Origin 1.0
+## Certificado de Origem 1.0 do Desenvolvedor
 
 By making a contribution to this project, I certify that:
 
