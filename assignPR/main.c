@@ -25,8 +25,12 @@ int main( int argc, char *argv[ ] ){
         exit(1);
     }
 
+    char *numero;
+    strcpy(numero, argv[1]);
+
+
     // Caso o valor digitado foi inválido
-    if(!numStringEhValido(argv[1])){
+    if(!numStringEhValido(numero)){
         printf(STYLE_BOLD "numero inválido\n" STYLE_NO_BOLD);
         exit(1);
     }
@@ -36,7 +40,7 @@ int main( int argc, char *argv[ ] ){
     int denominator;
 
     // if the conversion from C string to integers can take place
-    if(characteristic(argv[1], &c) && mantissa(argv[1], &numerator, &denominator)){
+    if(characteristic(numero, &c) && mantissa(numero, &numerator, &denominator)){
         // do some math with c, n, and d 
         printf("character: %d\n", c);
         printf("numerator: %d\n", numerator);
